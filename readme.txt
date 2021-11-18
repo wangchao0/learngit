@@ -4,3 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 Has push github.
+
+#git branch test
+Creating a new branch is quick.
